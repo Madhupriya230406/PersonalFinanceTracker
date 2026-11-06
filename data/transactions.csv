@@ -1,0 +1,11 @@
+id,type,amount,timestamp,category,remarks
+T001,INCOME,25000.00,2026-10-01T09:00,Salary,October salary
+T002,EXPENSE,4500.00,2026-10-02T13:30,Food,Groceries and meals
+T003,EXPENSE,1200.00,2026-10-04T08:15,Transport,Monthly bus pass
+T004,EXPENSE,3000.00,2026-10-07T16:00,Education,Course materials
+T005,INCOME,5000.00,2026-10-15T10:00,Freelance,Website work
+T006,EXPENSE,2500.00,2026-10-18T19:20,Bills,Internet and electricity
+T007,EXPENSE,1800.00,2026-10-22T17:45,Shopping,Study supplies
+6E11C081,EXPENSE,5000.00,2026-09-12T00:00,saving,s
+55DDF837,INCOME,10000.00,2026-10-23T00:00,saving,s
+616FBB81,EXPENSE,2000.00,2026-10-20T00:00,saving,re
